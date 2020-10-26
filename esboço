@@ -1,0 +1,41 @@
+Bom dia/tarde/noite pessoal, eu sou Nutricionista da Merenda escolar de uma pequena cidade do interior do Paraná, chamada Dois Vizinhos. 
+Estou há 5 meses neste trabalho e já notei a demanda de 2 "programas". O primeiro e, no meu ver, o mais urgente é o desenvolvimento deste app. 
+O segundo seria um programa de computador mais complexo. Vou explicar o App primeiro.
+Na prefeitura temos 27 escolas + Cmeis + instituições, 54 merendeiras envolvidas + 27 diretoras + 2 nutricionistas + 1 Secretária de Educação. 
+O app faria a integração dos processos entre todas estas pessoas. 
+Como funciona hoje: 
+As nutris montam os cardápios, com as receitas e indicações e recomendações e passam para as diretoras das escolas, estas imprimem e entregam às merendeiras. 
+Caso tenham receitas novas nos cardápios, as diretoras devem imprimir e repassar para as merendeiras ( oq frequentemente não fazem para economizar impressão), 
+e o que não é repassado pelas diretoras, não chega ao conhecimento das Merendeiras.
+Caso as escolas tenham algum problema com fornecedores, produtos ou cardápios, estas devem pedir para as diretoras ligarem ou enviarem um e-mail para as nutris, 
+por isso a maioria dos problemas não chegam até as nutris.
+Outra coisa é o controle de estoque, as escolas tem um modelo básico com uma planilha com nomes de produtos e elas imprimem, as merendeiras preenchem, 
+a secretária da escola digita e enviam por e-mail para as nutris, as nutris devem imprimir este papel para fazer o balanço para os próximos pedidos. 
+Este controle de estoque deve ser realizado semanalmente para os perecíveis e mensalmente para os não perecíveis.
+
+Não sei o que vcs perceberam, mas para mim este processo está infinitamente laborioso e com gaps de erros em várias partes do processo, 
+o que faz os envolvidos perderem muito tempo e recursos (impressões, mão de obra)
+Eu desenhei a mão as faces do app, tem algumas anotações em lápis, apenas para ter uma ideia (não sou boa em desenhos e nem em proporções, 
+mas nada que impeça a compreensão)
+Sobre os alimentos, receitas e cardápios eu tenho e estou desenvolvendo.... mas são coisas fáceis de se incluir já que as nutris devem estar postando e atualizando sempre
+A ideia é que todas as merendeiras e diretoras tenham o app no celular, assim elas podem ter acesso direto a tudo sem precisar de intermediários... 
+por isso tbm tem que funcionar em modelos mais antigos, pois se trata de um público mais carente
+essa é a ideia do app, a do programa eu preciso ainda colocar no papel e fazer uma lista das funcionalidades e modelos dos relatórios necessários
+
+Mahmoud13/10/2020
+tem como saber cada pessoa (usuário: nutris ,merendeiras ...etc) nesse estrutura, qual função dele em detalhais para fazer (user permissions) permissões de usuários, 
+e como escrever a relação dentro a unidades (prefeitura , escolha ..etc) em diagrama (Whimsical,https://www.diagrams.net/ )e qual tipo de usuário tem na cada unidade , 
+isso vai ajudar fazer estrutura de AppMahmoud16/10/2020
+boa tarde , eu encontrei as informações sobre Programa de Alimentação Escolar pelo estado TO, e foi informado que os municípios seguem o mesmo modelo , 
+não se os programas de outros estados estão iguais, 
+https://seduc.to.gov.br/programas-e-projetos/programa-de-alimentacao-escolar/
+
+thai16/10/2020
+Não é bem isso pois este é Estadual, o nivel Municipal é um  pouco diferente
+eu posso montar uma apresentação sobre como funciona e passar os documentos oficiais
+O site oficial do PNAE (Programa Nacional de Alimentação Escolar) é esse https://www.fnde.gov.br/programas/pnae
+mas são dezenas de documentos, guias e resoluções... mas vcs não precisam de todos estes materias, pq nem para mim todos se aplicam no trabalho
+
+Por favor manda a  apresentação e os modelos de cardápios e de receitas e os outros que são importantes .
+
+o modelo está modificando concordo de informações disponíveis
